@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Your Name
+#Raneem Alkaabneh
 
 ## About
 I graduated with a degree in Artificial Intelligence and Robotics from Al-Balqa Applied University in Jordan. I am passionate about building intelligent systems and developing practical AI applications that solve real-world problems.
@@ -19,33 +19,33 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo: [your-repo-link](#)
+  - Repo:[your-repo-link] [(https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-ranoomalkaabneh-ui.git)](#)
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
-  - Repo: [your-repo-link](#)
+  - Repo: [[your-repo-link](https://github.com/LevelUp-Applied-AI/m1-d1-git-workflows-ranoomalkaabneh-ui.git)](#)
   - Skills: Git collaboration, pull requests, code review, merge conflict resolution
 
 **Data Pipelines & PyTorch Fundamentals**
 
 - **Data Pipeline** — Built an end-to-end data loading and preprocessing pipeline using pandas, with validation checks and reproducible outputs.
-  - Repo: [your-repo-link](#)
+  - Repo: [[your-repo-link](https://github.com/LevelUp-Applied-AI/m2-l2-data-pipeline-ranoomalkaabneh-ui.git)](#)
   - Skills: Python, pandas, data cleaning, pipeline design
 
 - **PyTorch Model** — Implemented a neural network training loop in PyTorch, including data loading, forward/backward passes, and evaluation metrics.
-  - Repo: [your-repo-link](#)
+  - Repo: [[your-repo-link](https://github.com/LevelUp-Applied-AI/m2-i2-pytorch-ranoomalkaabneh-ui.git)](#)
   - Skills: PyTorch, tensor operations, training loops, model evaluation
 
 **Relational Databases & SQL**
 
-- **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
+- - **SQL Fundamentals** — Built SQL queries to extract, filter, and analyze data using PostgreSQL, including joins, aggregations, and data modeling basics.
+  - Repo: [[
   - Skills: SQL, PostgreSQL, data modeling
 
 **Data Visualization & Communication**
 
 - **Project Name** — One sentence describing what you built.
-  - Repo: [link](#)
+  - Repo: [[link](https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-ranoomalkaabneh-ui-1.git)](#)
   - Skills: Matplotlib, data storytelling
 
 ---
