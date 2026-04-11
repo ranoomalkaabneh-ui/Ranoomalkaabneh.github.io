@@ -39,7 +39,9 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 **Relational Databases & SQL**
 
 - - **SQL Fundamentals** — Built SQL queries to extract, filter, and analyze data using PostgreSQL, including joins, aggregations, and data modeling basics.
-  - Repo: [[
+  - Repo: [[https://github.com/LevelUp-Applied-AI/m3-d3-sql-fundamentals-ranoomalkaabneh-ui/pull/1]
+  - https://github.com/LevelUp-Applied-AI/m3-i3-etl-pipeline-ranoomalkaabneh-ui/pull/1
+  - https://github.com/MsDiala/SQL-Murder-Mystery.git
   - Skills: SQL, PostgreSQL, data modeling
 
 **Data Visualization & Communication**
