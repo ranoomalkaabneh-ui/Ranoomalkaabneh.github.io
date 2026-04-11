@@ -5,9 +5,11 @@ layout: default
 # Your Name
 
 ## About
+I graduated with a degree in Artificial Intelligence and Robotics from Al-Balqa Applied University in Jordan. I am passionate about building intelligent systems and developing practical AI applications that solve real-world problems.
 
-I am a recent graduate in [Computer Science / Electrical Engineering] from [University Name] in Jordan. I am building expertise in applied AI and ML systems through the AI.SPIRE program. I am most interested in [your areas of interest — e.g., NLP, computer vision, data engineering, deployment].
+I am currently advancing my skills in AI and machine learning through the AI.SPIRE program, focusing on hands-on, real-world applications.
 
+My interests include Natural Language Processing (NLP) and developing intelligent AI systems for practical use.
 ---
 
 ## Projects
