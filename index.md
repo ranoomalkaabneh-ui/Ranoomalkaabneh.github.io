@@ -44,7 +44,7 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 
 **Data Visualization & Communication**
 
-- **Project Name** — One sentence describing what you built.
+- **Academic Performance Data Analysis** 
   - Repo: [[link]([https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-ranoomalkaabneh-ui-1.git)](#)
   - Skills: Matplotlib, data storytelling
 
@@ -115,6 +115,6 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 
 ## Contact
 
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **GitHub:** [[[your-github-username]](https://github.com/ranoomalkaabneh-ui)]
+- **LinkedIn:** [[your-linkedin-profile](https://www.linkedin.com/in/ranoom-alkaabneh-b29489349?)]
+- **Email:**ranoomalkaabneh@gmail.com
