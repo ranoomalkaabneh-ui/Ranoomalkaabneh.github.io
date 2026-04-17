@@ -19,7 +19,7 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 **Git, Environment Setup & Collaboration**
 
 - **Environment & Git Workflows** — Set up a reproducible Python development environment and practiced branching, merging, and pull request workflows.
-  - Repo:[your-repo-link] [(https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-ranoomalkaabneh-ui.git)](#)
+  - Repo:[[your-repo-link](https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-ranoomalkaabneh-ui.git)](#)
   - Skills: Git, GitHub, VS Code, virtual environments, branch management
 
 - **Team Collaboration Pipeline** — Collaborated on a shared repository using feature branches and code review, resolving merge conflicts and maintaining a clean commit history.
@@ -39,15 +39,13 @@ My interests include Natural Language Processing (NLP) and developing intelligen
 **Relational Databases & SQL**
 
 - - **SQL Fundamentals** — Built SQL queries to extract, filter, and analyze data using PostgreSQL, including joins, aggregations, and data modeling basics.
-  - Repo: [[https://github.com/LevelUp-Applied-AI/m3-d3-sql-fundamentals-ranoomalkaabneh-ui/pull/1]
-  -   https://github.com/LevelUp-Applied-AI/m3-i3-etl-pipeline-ranoomalkaabneh-ui/pull/1
-  -  https://github.com/MsDiala/SQL-Murder-Mystery.git
+  - Repo:[[your-repo-link](https://github.com/LevelUp-Applied-AI/m3-l3-sql-analytics-ranoomalkaabneh-ui.git)](#)
   - Skills: SQL, PostgreSQL, data modeling
 
 **Data Visualization & Communication**
 
 - **Project Name** — One sentence describing what you built.
-  - Repo: [[link](https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-ranoomalkaabneh-ui-1.git)](#)
+  - Repo: [[link]([https://github.com/LevelUp-Applied-AI/m4-l4-descriptive-analytics-ranoomalkaabneh-ui-1.git)](#)
   - Skills: Matplotlib, data storytelling
 
 ---
